@@ -1,0 +1,36 @@
+a.link {
+    border: solid 1px #fff;
+    text-decoration: none;
+    color: white;
+    transition: 1s all;
+}
+a.linkedin:hover {
+    background-color: #0e76a8;
+    border: solid 1px #0e76a8;
+    border: none;
+}
+
+a.instagram:hover {
+    transition: 1s all;
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); ;
+    border: solid 1px linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); ;
+    border: none;
+}
+
+a.twitter:hover {
+    background-color: #00ACEE;
+    border: solid 1px #00ACEE;
+    border: none;
+}
+
+a.whatsapp:hover {
+    background-color: #4ac959;
+    border: solid 1px #4ac959;
+    border: none;
+}
+
+a.facebook:hover {
+    background-color: #3b5998;
+    border: solid 1px #3b5998;
+    border: none;
+}
